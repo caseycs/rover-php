@@ -1,8 +1,8 @@
 rover-php
 =========
 
-install composer, them run `composer install`
+Installation: install composer, them execute `composer install`
 
-tests: run 'vendor/bin/phpunit'
+Tests: `vendor/bin/phpunit`
 
-demo: run 'php run.php'
+Demo: `php run.php`
