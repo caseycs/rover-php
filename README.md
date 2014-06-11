@@ -1,7 +1,7 @@
 rover-php
 =========
 
-Installation: install composer, them execute `composer install`
+Install composer, then install dependencies: `composer install`
 
 Tests: `vendor/bin/phpunit`
 
